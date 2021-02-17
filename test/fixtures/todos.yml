@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  todo_id: 9.99
+  is_complete: false
+  todotext: MyText
+
+two:
+  todo_id: 9.99
+  is_complete: false
+  todotext: MyText
